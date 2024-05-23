@@ -1,4 +1,4 @@
-### На статиску не смотрим, работаю в gitlab)
+### а?)
 
 <!--
 **TEGGIT/TEGGIT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
